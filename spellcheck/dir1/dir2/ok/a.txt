@@ -1,0 +1,7 @@
+start---        thisisnotaword
+end$3-hey
+act-sad-hey
+--eof
+----correct
+---not-correkt
+---yes-correct
